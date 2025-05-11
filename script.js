@@ -1,4 +1,4 @@
-const emojis = ["😀", "😎", "😴", "🤖", "🥳", "😡", "🧐", "😇", "💩", "👽", "🎃", "🐱‍👓"];
+const emojis = ["😀", "😎", "😴", "🤖", "🥳", "😡", "🧐", "😇", "💩", "👽", "🎃", "🐱‍👓", "🙌", "👀"];
 const button = document.getElementById("emojiBtn");
 const display = document.getElementById("emojiDisplay");
 
